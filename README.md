@@ -63,10 +63,6 @@ Breast cancer remains one of the most severe public health problems. Early diagn
 ## Results
 The model achieved significant accuracy in classifying the different grades of breast cancer. The use of data augmentation and fine-tuning of the VGG16 model parameters contributed to the improved performance metrics.
 
-### Accuracy and Loss Graphs
-![Graph of Accuracy](images/screenshot1.png)
-![Graph of Loss](images/screenshot2.png)
-
 ## Contributors
 - Muna Nazihah Binti Mohamad Asman
 - Fahda Nadia Bt Md Shahizan
